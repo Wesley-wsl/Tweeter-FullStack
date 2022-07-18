@@ -1,0 +1,6 @@
+[submodule "Tweeter-frontend"]
+	path = Tweeter-frontend
+	url = https://github.com/Wesley-wsl/Tweeter-frontend
+[submodule "Tweeter-backend"]
+	path = Tweeter-backend
+	url = https://github.com/Wesley-wsl/Tweeter-backend
