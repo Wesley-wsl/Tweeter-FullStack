@@ -6,7 +6,7 @@
 
 <hr/>
 
-## Front-end deploy with Vercel and Netlify: :dash:
+## Front-end deploy with Vercel: :dash:
 
 > https://tweeter-wsl.vercel.app
 
